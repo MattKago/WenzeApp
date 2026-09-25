@@ -3,4 +3,5 @@ A localized classifieds and peer-to-peer marketplace platform for the Democratic
 
 
 App store: https://apps.apple.com/us/app/wenze/id6749544069
+
 Playstore: https://play.google.com/store/apps/details?id=com.wenzecd.app&hl=en_GB
